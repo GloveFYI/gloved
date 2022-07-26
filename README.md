@@ -24,3 +24,9 @@ Trueblocks indexes appearances of on-chain addresses within set of blocks, emplo
 
 Its current algo amounts the chunk files to at least 2500 totaling at least 2.6 GB in size.
 
+----
+
+Reference diagram
+
+![](https://blog.glove.fyi/img/content/glove-arch-2.png)
+Source: https://blog.glove.fyi/realizing-glove-as-a-game-shifting-web3-experience/
